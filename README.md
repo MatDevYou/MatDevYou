@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @MatDevYou
 - 👀 I’m interested in HTML 5, CSS, C#, java, RPA, Cloud
 - 🌱 I’m currently learning cloud specialist
-- 📎 Here you can find my Curriculum Vitae: 
+- 📎 Here you can find my Curriculum Vitae: [CV](https://matdevyou.github.io/cv/)
 - 📫 How to reach me 📧[Mail](mailto:matteo.meringolo@gmail.com) or [Telegram](https://t.me/MatDevYou)
 
 <!---
